@@ -1,0 +1,240 @@
+@media screen and (min-device-width:320px) and (max-device-width:767px)
+{
+    .cosmo-width {
+        display: none;
+    }
+    .top-inn {
+        line-height: 30px;
+        padding-bottom: 5px;
+    }
+.top-inn .text-right, .top-inn .text-left
+{
+    text-align: center !important;
+}
+.top-text-lft span {
+    display: none;
+}
+.top-text-lft {
+    font-size: 14px;
+}
+.top-inn ul li {
+    padding-right: 0px;
+}
+.top-inn ul li .btn-warning {
+    border-radius: 7px;
+    padding: 4px 11px;
+    font-size: 12px;
+}
+.icon-ban {
+    width: 100%;
+    height: auto;
+    padding: 20% 0;
+    margin-bottom: 10px;
+}
+.icon-ban p {
+    font-size: 12px;
+    letter-spacing: 0;
+}
+.icon-ban img {
+    width: 50%;
+    height: auto;
+}
+.bannerr {
+    height: auto;
+	padding-top: 0px;
+	padding-bottom:30px;
+}
+#carousel-example-generic .carousel-indicators {
+    bottom: 0px;
+}
+#carousel-example-generic .carousel-control.right {
+    right: 25px;
+}
+#carousel-example-generic .carousel-control.left {
+    right: 25px;
+}
+.nav-tabs > li {
+    float: inherit;
+    margin-bottom: 0px;
+    display: block;
+}
+.team_columns_item_caption h4
+{
+    font-size: 12px;
+}
+.team_columns_item_caption h5
+{
+    font-size: 11px;
+}
+.team_columns_item_caption>hr
+{
+    display: none;
+}
+.team_columns_item_caption
+{
+    min-height: 80px;
+}
+.heading h2 {
+    font-size: 25px;
+    margin-bottom: 30px;
+}
+.team_columns_carousel_wrapper .carousel-control.right
+{
+    display: none;
+}
+.team_columns_carousel_wrapper .carousel-control.left
+{
+    display: none;
+}
+/* .menu {
+    width: 100%;
+    background: #fff;
+    margin-top: 25px !important;
+} */
+.offer-main {
+    padding: 40px 0;
+}
+.quick-apply {
+    padding: 30px 0;
+}
+.nri-main {
+    padding: 40px 0;
+}
+#testimonial, #testimonial1 {
+    padding: 30px 0;
+}
+.color-1 {
+    border: 10px solid #1d8acf;
+}
+.color-2
+{
+    border: 10px solid #d81d2b;
+}
+.color-3
+{
+    border: 10px solid #ddac2b;
+}
+.color-4
+{
+    border: 10px solid #05958c;
+}
+.color-5
+{
+    border: 10px solid #9c4ad3;
+}
+.color-6
+{
+    border: 10px solid #0ca0bc;
+}
+.color-7
+{
+    border: 10px solid #5c3dbf;
+}
+.color-8
+{
+    border: 10px solid #1d8acf;
+}
+.form-area h4 {
+    color: #000;
+    line-height: 44px;
+}
+.form-field-main {
+    background-size: 100%;
+    padding-bottom: 20%;
+}
+.tabformat
+{
+    margin-bottom: 30px;
+}
+#main_footer_subscribe
+{
+    margin-bottom: 30px;
+}
+.logo-big {
+    margin-top: 0px;
+}
+.navbar-nav {
+    margin-left: 0;
+    margin: 0;
+}
+.mob-logo
+{
+    display: inherit;
+}
+
+
+
+}
+
+
+
+
+
+
+@media screen and (min-device-width:768px) and (max-device-width:959px)
+{
+
+    .team_columns_carousel_wrapper .carousel-control.right
+    {
+        display: none;
+    }
+    .team_columns_carousel_wrapper .carousel-control.left
+    {
+        display: none;
+    }
+    #carousel-example-generic .carousel-control.right {
+        display: none;
+    }
+    #carousel-example-generic .carousel-control.left {
+        display: none;
+    }
+    .navbar-nav {
+        margin-left: 0;
+    }
+    .nri-service ul li a {
+        font-size: 10px;
+    }
+    .testimonial .description {
+        font-size: 12px;
+        font-style: italic;
+        color: #8a8a8a;
+        line-height: normal;
+        margin: 0;
+    }
+    .mob-logo
+    {
+        display: none;
+    }
+
+    .navbar-default .navbar-nav>li>a {
+        padding: 10px 0;
+        color: #000;
+        font-size: 12px;
+    }
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+@media screen and (min-device-width:960px) and (max-device-width:1024px)
+{
+
+}
+
+
+
+
+
+
+
+
